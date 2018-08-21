@@ -1,4 +1,8 @@
 thsi is the github text1
 this is th githubline from web
+<<<<<<< HEAD
 this line is from aws VM
+=======
+this linee from web
+>>>>>>> cc3e0823bc60846ec94c85cfd7efaf55e6253454
 
